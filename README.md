@@ -11,7 +11,7 @@
 - Quick meme create from meme history
 
 ## Video
-[![MemeMe_Hun](https://github.com/BoostCamp/MemeMe_Hun/blob/master/Screenshots/introducing.png?raw=true)](https://youtu.be/Gn3mJqArUiM)
+[![MemeMe_Hun](https://github.com/BoostCamp/MemeMe_Hun/blob/master/Screenshots/introducing.png?raw=true)](https://youtu.be/OMWwyHQOZN8)
 [Download Video](https://github.com/BoostCamp/MemeMe_Hun/blob/master/introducing.mp4?raw=true)
 
 ## Screenshots
